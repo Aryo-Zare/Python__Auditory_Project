@@ -15,5 +15,9 @@ This is for analysis of MUA in neuropixels for the 8-soi paradigm.
 significance level of the response (statistically defined) is also mentioned.
 
 
+## ssa_click
+stimulation : 8-soi paradigm , (broad-band) clicks.
 
+## ssa_tone
+stimulation : 8-soi paradigm , pure tones.
 
