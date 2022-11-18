@@ -21,3 +21,9 @@ stimulation : 8-soi paradigm , (broad-band) clicks.
 ## ssa_tone
 stimulation : 8-soi paradigm , pure tones.
 
+
+##
+lh_410 : low_high frequencies in a band : it's already randomized based on center frequency & band-width.
+10 of them are broad-band noises.
+
+r_410 is the random numbers. They are not needed anymore, since they are already incorporated in lh_410.
