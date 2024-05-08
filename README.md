@@ -1,4 +1,4 @@
-# Python-_-Audition
+# Python _ Auditory Project
 
 ## tuning_curve.py  
 This is the python code for neuroscientists aiming to investigate auditory response of neurons (particulalry cortical neusons) to randomly generated tones of various pitches.
